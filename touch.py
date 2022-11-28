@@ -2,4 +2,4 @@ import random
 
 def predict()->int:
     print('yes')
-    return random.randint(1,10)
+    return random.randil(1,10)
